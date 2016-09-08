@@ -1,1 +1,1 @@
-web: gunicorn koolconsole.wsgi
+web: gunicorn mysite.wsgi
